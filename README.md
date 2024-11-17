@@ -2,11 +2,11 @@
 
 ---
 
-## Mission 01
+## Mission 00
 
-- [html](./mission01/mission01.html)
-- [javascript](./mission01/mission01.js)
+- [html](./mission01/mission00.html)
+- [javascript](./mission01/mission00.js)
 
 ---
 
-## Mission 02
+## Mission 01
